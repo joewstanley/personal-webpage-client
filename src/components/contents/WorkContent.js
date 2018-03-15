@@ -22,24 +22,24 @@ class WorkContent extends Component {
           company: "Thomas Built Buses",
           website: "https://thomasbuiltbuses.com/",
           date: "June - Aug 2016",
-          title: "Engineering Intern",
+          title: "Planner & Scheduler",
           info: [
-            "Troubleshot software and hardware issues for employees",
-            "Trained staff on how to use specific applications",
-            "Recorded part information and quantities in database",
-            "Communicated with peers on outstanding and unfinished tasks"
+            "Managed part inventories and shipment information",
+            "Contacted suppliers in relation to part arrival times and delays",
+            "Updated contact information for current suppliers",
+            "Created updated contact spreadsheet using Microsoft Excel and Visual Basic"
           ]
         },
         {
           company: "Thomas Built Buses",
           website: "https://thomasbuiltbuses.com/",
           date: "June - Aug 2015",
-          title: "Planner & Scheduler",
+          title: "Engineering Intern",
           info: [
-            "Managed part inventories and shipment information",
-            "Contacted suppliers in relation to part arrival times and delays",
-            "Updated contact information for current suppliers",
-            "Created part management spreadsheet using Microsoft Excel and Visual Basic"
+            "Troubleshot software and hardware issues for employees",
+            "Trained staff on how to use specific applications",
+            "Recorded part information and quantities in database",
+            "Communicated with peers on outstanding and unfinished tasks"
           ]
         }
       ]
