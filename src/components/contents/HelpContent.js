@@ -9,6 +9,11 @@ class HelpContent extends Component {
         <p className="center">COMMAND LIST</p>
         <hr />
         <br />
+        <p>
+          Enter commands next to the greater-than symbol to change pages. Use
+          the "help" command, or the red terminal button, to reopen this page.
+        </p>
+        <br />
         <table className="help-table">
           <tbody>
             <tr>

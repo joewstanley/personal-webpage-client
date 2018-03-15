@@ -526,16 +526,16 @@ body {
 }
 @media only screen and (min-width: 1541px) and (max-width: 1920px) {
   .box {
-    height: 600px;
+    height: 610px;
     padding: 20px;
-    font-size: 24px;
+    font-size: 22px;
   }
 }
 @media only screen and (min-width: 1921px) {
   .box {
     height: 780px;
     padding: 24px;
-    font-size: 32px;
+    font-size: 26px;
   }
 }
 @media only screen and (max-width: 480px) {
@@ -560,7 +560,7 @@ body {
 }
 @media only screen and (min-width: 1541px) and (max-width: 1920px) {
   .box .spacer {
-    height: 24px;
+    height: 22px;
   }
 }
 @media only screen and (min-width: 1921px) {
@@ -616,7 +616,7 @@ body {
 }
 @media only screen and (min-width: 1541px) and (max-width: 1920px) {
   .contents {
-    height: 520px;
+    height: 532px;
   }
 }
 @media only screen and (min-width: 1921px) {
@@ -716,7 +716,7 @@ body {
 @media only screen and (min-width: 1141px) and (max-width: 1540px) {
   .help,
   .help-table {
-    width: 34em;
+    width: 38em;
   }
 }
 @media only screen and (min-width: 1541px) and (max-width: 1920px) {
@@ -728,7 +728,7 @@ body {
 @media only screen and (min-width: 1921px) {
   .help,
   .help-table {
-    width: 36em;
+    width: 38em;
   }
 }
 /************************************************
@@ -994,12 +994,12 @@ body {
 }
 @media only screen and (min-width: 1541px) and (max-width: 1920px) {
   .contact-input {
-    font-size: 24px;
+    font-size: 22px;
   }
 }
 @media only screen and (min-width: 1921px) {
   .contact-input {
-    font-size: 32px;
+    font-size: 26px;
   }
 }
 .contact-input:focus {
